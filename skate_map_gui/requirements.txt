@@ -1,0 +1,4 @@
+# GUI uses stdlib tkinter only.
+# Conversion needs:
+numpy>=1.24
+Pillow>=10.0

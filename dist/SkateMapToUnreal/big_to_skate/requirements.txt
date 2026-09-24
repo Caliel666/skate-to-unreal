@@ -1,0 +1,5 @@
+# Minimal deps for the SK8-ENGINE map conversion pipeline.
+# Prefer installing the engine's full setup list when available:
+#   pip install -r <engine>/tools/requirements-setup.txt
+numpy>=1.24
+Pillow>=10.0
